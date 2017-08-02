@@ -3,6 +3,10 @@ Go gopher vector image (.ai, .svg) with mad thematic.
 
 It was based on [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector).
 
+## Example
+
+![Preview](doc/preview.png?raw=true "Preview")
+
 ## Usage
 
 1. Just download anything vector image.
